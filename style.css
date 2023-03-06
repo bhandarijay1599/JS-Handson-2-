@@ -1,0 +1,11 @@
+.container{
+    background-color: rgb(62, 80, 148);
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+h3{
+    color: rgb(210, 121, 121);
+    font-size: 20px;
+}
